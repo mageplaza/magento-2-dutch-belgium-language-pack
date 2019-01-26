@@ -89,8 +89,11 @@ Unzip the Dutch, Belgium language pack to Magento 2 root folder. In this guide, 
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/nl_be
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-dutch-belgium-language-pack` to `nl_be`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Dutch, Belgium pack manually, you have to access to your
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `nl_BE.zip` into `app/i18n/mageplaza/nl_BE/nl_BE.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/nl_be/nl_BE.csv`
+
+See this screenshot
+
+![Dutch, Belgium pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
