@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Dutch, Belgium Language Pack](https://www.mageplaza.com/magento-2-dutch-belgium-language-pack.html)
 
+![Mageplaza Dutch, Belgium language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
