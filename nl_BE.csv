@@ -11922,7 +11922,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "New Order RSS","Nieuwe bestellingen RSS",module,Magento_Sales
 "Subtotal","Subtotaal",module,Magento_Sales
 "Shipping & Handling","Verzending en verwerking",module,Magento_Sales
-"Discount (%1)","Korting (%s)",module,Magento_Sales
+"Discount (%1)","Korting (%1)",module,Magento_Sales
 "Discount","Korting",module,Magento_Sales
 "Grand Total","Eindtotaal",module,Magento_Sales
 "Back","Terug",module,Magento_Sales
@@ -12755,7 +12755,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Specified rule only allows auto generated coupons","Opgegeven regel staat alleen automatisch gegenereerde coupons toe",module,Magento_SalesRule
 "Specified rule does not allow auto generated coupons","Opgegeven regel staat geen auto gegenereerde coupons toe",module,Magento_SalesRule
 "Error occurred when saving coupon: %1","Er is een fout opgetreden bij het opslaan van de coupon: %1",module,Magento_SalesRule
-"Discount (%1)","Korting (%s)",module,Magento_SalesRule
+"Discount (%1)","Korting (%1)",module,Magento_SalesRule
 "Discount","Korting",module,Magento_SalesRule
 "Coupon with the same code","Coupons met de zelfde code",module,Magento_SalesRule
 "No Coupon","Geen kortingscode",module,Magento_SalesRule
