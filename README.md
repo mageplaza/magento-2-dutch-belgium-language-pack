@@ -1,6 +1,6 @@
 ## Magento 2 Dutch, Belgium Language Pack
 
-
+ 
 
 Read more [Magento 2 Dutch, Belgium Language Pack](https://www.mageplaza.com/magento-2-dutch-belgium-language-pack.html)
 
@@ -20,8 +20,6 @@ Read more [Magento 2 Dutch, Belgium Language Pack](https://www.mageplaza.com/mag
 
 This is status of Dutch, Belgium Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/93/?title=translated)
-
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-dutch-belgium-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
@@ -38,13 +36,24 @@ Install the Dutch, Belgium language pack via composer is never easier.
 
 **Install Dutch, Belgium pack**:
 
+With Social Proof (recommend):
+
+```
+composer require mageplaza/magento-2-dutch-belgium-language-pack:dev-master avada/module-proofo
+php bin/magento setup:static-content:deploy nl_BE
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Social Proof:
+
 ```
 composer require mageplaza/magento-2-dutch-belgium-language-pack:dev-master
 php bin/magento setup:static-content:deploy nl_BE
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
