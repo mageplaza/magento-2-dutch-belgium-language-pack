@@ -11099,7 +11099,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "New Order RSS","Nieuwe bestellingen RSS",module,Magento_Sales
 "Shopping cart","Shopping cart",module,Magento_Sales
 "Subtotal","Subtotaal",module,Magento_Sales
-"Discount (%1)","Korting (%s)",module,Magento_Sales
+"Discount (%1)","Korting (%1)",module,Magento_Sales
 "Discount","Korting",module,Magento_Sales
 "Shipping & Handling","Verzending en verwerking",module,Magento_Sales
 "Grand Total","Eindtotaal",module,Magento_Sales
